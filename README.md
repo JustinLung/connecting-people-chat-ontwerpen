@@ -1,28 +1,10 @@
 # 📲 Connecting People Real Time Chat
 
-## Inhoudsopgave
+## Analyse
+Voordat ik was begonnen met schetsen, heb ik samen met Daan en Shauri een paar applicaties gevonden die een chat functionaliteit hebben op het internet. Denk hierbij aan Discord, Slach en Microsoft Teams. Verder heb ik op [🏀 Dribbble](https://dribbble.com/) een aantal ontwerpen gevonden die mij hebben geholpen om een mooi design te maken.
 
-  * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
-  * [Installatie](#installatie)
-  * [Gebruik](#gebruik)
-  * [Bronnen](#bronnen)
-  * [Licentie](#licentie)
+## ✍️ Papieren Schetsen
+Met behulp van pen en papier, heb ik 6 schetsen gemaakt voor de "Booktalk" applicatie.
 
-## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-
-## Kenmerken
-
-## Installatie
-
-## Gebruik
-
-## Bronnen
-
-## Licentie
-
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-This work is licensed under [GNU GPLv3](./LICENSE).
+## 🧑‍🎨 Digitale versie
+Na het schetsen, heb ik 10 verschillende ontwerpen gemaakt met behulp van Figma, zodat er kleine variaties zoals kleur, marges, schaduw en typografie wordt getoond in het ontwerp.🧑‍🎨
