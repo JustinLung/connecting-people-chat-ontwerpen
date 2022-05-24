@@ -5,6 +5,19 @@ Voordat ik was begonnen met schetsen, heb ik samen met Daan en Shauri een paar a
 
 ## ✍️ Papieren Schetsen
 Met behulp van pen en papier, heb ik 6 schetsen gemaakt voor de "Booktalk" applicatie.
+![Papieren Schetsen](https://github.com/JustinLung/connecting-people-chat-ontwerpen/blob/main/docs/papieren-schetsen.jpg?raw=true)
 
 ## 🧑‍🎨 Digitale versie
-Na het schetsen, heb ik 10 verschillende ontwerpen gemaakt met behulp van Figma, zodat er kleine variaties zoals kleur, marges, schaduw en typografie wordt getoond in het ontwerp.🧑‍🎨
+Na het schetsen, heb ik 10 verschillende ontwerpen gemaakt met behulp van Figma, zodat er kleine variaties zoals kleur, marges, schaduw en typografie wordt getoond in het ontwerp.
+
+### 1
+### 2
+### 3
+### 4
+### 5
+### 6
+### 7
+### 8
+### 9
+### 10
+
