@@ -10,6 +10,8 @@ Met behulp van pen en papier, heb ik 6 schetsen gemaakt voor de "Booktalk" appli
 ## 🧑‍🎨 Digitale versie
 Na het schetsen, heb ik 10 verschillende ontwerpen gemaakt met behulp van Figma, zodat er kleine variaties zoals kleur, marges, schaduw en typografie wordt getoond in het ontwerp.
 
+[🔨 Figma Link](https://www.figma.com/file/f4GVZJzxFx8qmMEPd1yjTJ/Untitled?node-id=0%3A1)
+
 ### Design 1
 ![Design 1](https://github.com/JustinLung/connecting-people-chat-ontwerpen/blob/main/docs/design-1.png?raw=true)
 ### Design 2
